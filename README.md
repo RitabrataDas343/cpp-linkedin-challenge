@@ -1,2 +1,2 @@
 # cpp-linkedin-challenge
-Learning C++ from LinkedIn now
+Learning C++ from LinkedIn
